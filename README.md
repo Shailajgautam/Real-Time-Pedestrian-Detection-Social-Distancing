@@ -1,6 +1,6 @@
 ---
 
-# **Social Distancing Monitoring System**
+# **Real Time Pedestrian Detection-Social Distancing**
 
 
 A **real‑time social distancing monitoring system** built using **YOLOv3** and **OpenCV**, designed to detect people in video streams and estimate the distances between them to monitor compliance with social distancing protocols — especially relevant during public health crises such as the COVID‑19 pandemic. ([GitHub][1])
